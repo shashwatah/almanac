@@ -48,7 +48,7 @@ $ git clone https://github.com/Araekiel/araekiels-almanac.git
 $ cd araekiels-almanac
 ```
 
-> Set the port in **_config.yml**
+> Set the port in *_config.yml*
 
 Run the site:
 
@@ -56,4 +56,4 @@ Run the site:
 $ bundle exec jekyll serve
 ```
 
-> Note: **bundle exec** is not required unless you are running the website for the first time.
+> Note: '**bundle exec**' is not required unless you are running the website for the first time.
