@@ -143,7 +143,7 @@ Example:
 
 ## Authors
 
-- [Araekiel](https://www.github.com/Araekiel)
+- Araekiel - [Github](https://www.github.com/Araekiel)
 
 ## License 
 
