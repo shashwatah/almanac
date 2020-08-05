@@ -1,1 +1,1 @@
-<p style=" font-family: Lato, 'sans-serif'"><span style="font-size: 20px;">araekiel's</span> <span style="font-size: 30px; font-weight: bold;">almanac</span></p>
+# [Araekiel's Almanac](https://araekiel.netlify.app)
