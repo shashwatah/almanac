@@ -15,3 +15,17 @@
   <a><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0-blue"></a>
   <a href="https://app.netlify.com/sites/araekiel/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e55d05c3-64c6-4f9f-ac79-4b5f369879f7/deploy-status"></a>
 </p>
+
+
+
+## Getting Started
+
+#### Installations
+
+Install [Ruby](https://www.ruby-lang.org/en/downloads/) to install jekyll and it's bundler.
+
+Installing Jekyll: 
+
+```
+$ gem install bundler jekyll
+```
