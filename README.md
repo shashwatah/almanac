@@ -22,9 +22,21 @@
 
 ### Installations
 
-Install [Ruby](https://www.ruby-lang.org/en/downloads/) to install jekyll and it's bundler.
+#### Ruby 
 
-Installing Jekyll: 
+Install Ruby from this [link](https://www.ruby-lang.org/en/downloads/).
+
+Run the following commands to confirm if the installation was successful:
+
+```
+$ ruby -
+
+$ gem -v
+```
+
+#### Jekyll
+
+Run the following command to install Jekyll:
 
 ```
 $ gem install bundler jekyll
