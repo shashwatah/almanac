@@ -92,3 +92,18 @@ Open a browser and type **localhost:_port_**
    ├── Gemfile
    └── Gemfile.lock
    ```
+
+> Note: I would advise against relying on this repository. It will not be updated frequently since the website relies on a different repo. Also, you will encounter file not found errors upon execution since this repos does not contain images for 'binge' and 'sketches' pages.
+
+## Refs
+
+- The design is inspired by [aweekj](https://github.com/aweekj)'s [Kiko-plus](https://github.com/aweekj/Kiko-plus) jekyll theme.
+
+
+## Authors
+
+- [Araekiel](https://www.github.com/Araekiel)
+
+## License 
+
+[MIT](https://choosealicense.com/licenses/mit/)
