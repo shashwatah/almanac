@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /binge
+
+pagetag: binge
+pagetype: main
+---
+
+<div class="container images-container" id="binge-container">
+  {% for movie in site.data.binge %}
+  <div class="image-container">
+    <img
+      alt="{{ movie.name }}"
+      class="image"
+      src="{{ movie.location }}"
+      type="image/jpg"
+    />
+  </div>
+  {% endfor %}
+</div>
