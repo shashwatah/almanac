@@ -75,7 +75,7 @@ Open a browser and type **localhost:_port_**
    .
    ├── _data                      
    |   ├── binge.yml
-   |   ├── navingation.yml
+   |   ├── navingation.yml          
    |   ├── projects.yml
    |   └── sketches.yml
    ├── _includes                      
@@ -91,7 +91,7 @@ Open a browser and type **localhost:_port_**
    |   ├── projects.html
    |   └── sketches.html
    ├── _posts
-   ├── _site
+   ├── _site                        # => Auto generated
    ├── assets                      
    |   ├── images
    |   |   ├── binge
@@ -99,7 +99,7 @@ Open a browser and type **localhost:_port_**
    |   |   ├── sketches
    |   |   └── almanac.png
    |   └── styles
-   ├── _config.yml
+   ├── _config.yml                  # => Site's configuration
    ├── Gemfile
    └── Gemfile.lock
    ```
