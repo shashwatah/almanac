@@ -19,7 +19,7 @@
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#build--run">Build & Run</a> •
-  <a href="#directory-structure">Directory Structure</a> •
+  <a href="#structure">Structure</a> •
   <a href="#refs">Refs</a> •
   <a href="#authors">Authors</a> •
   <a href="#license">License</a>
@@ -67,7 +67,9 @@ $ bundle exec jekyll serve
 
 Open a browser and type **localhost:_port_**
 
-## Directory Structure
+## Structure
+
+### Directory Structure
 
    ```bash
    .
@@ -101,6 +103,36 @@ Open a browser and type **localhost:_port_**
    ├── Gemfile
    └── Gemfile.lock
    ```
+
+### _data/binge.yml
+
+Example:
+```yml
+- title: Breaking Bad
+  location: assets/images/binge/breaking_bad.jpg
+```
+
+### _data/projects.yml
+
+Example:
+```yml
+- title: GitWiz
+  desc: A singular portal to search for public repos from multiple version control platforms.
+  tags:
+    - name: Node.js
+    - name: TypeScript
+    - name: JavaScript
+  url: https://gitwiz.herokuapp.com
+```
+
+### _data/sketches.yml
+
+Example:
+```yml
+- title: The Mandalorian
+  caption: "This is the way."
+  location: ./assets/images/sketches/mandalorian.jpg
+```
 
 > Note: I would advise against relying on this repository. It will not be updated frequently since the website relies on a different repo(private). Also, you will encounter file not found errors upon execution since this repo does not contain images for 'binge' and 'sketches' pages.
 
