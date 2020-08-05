@@ -25,6 +25,8 @@
   <a href="#license">License</a>
 </p>
 
+<img alt="Screenshot" src="https://raw.githubusercontent.com/Araekiel/araekiels-almanac/master/assets/images/screenshot.png" type="image/png">
+
 ## Prerequisites
 
 ### Ruby 
