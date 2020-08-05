@@ -27,6 +27,6 @@ defaults:
 plugins:
   - jekyll-feed
 
-port: 108
+port: port
 host: 0.0.0.0
 
