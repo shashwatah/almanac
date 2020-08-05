@@ -57,3 +57,38 @@ $ bundle exec jekyll serve
 > Note: '**bundle exec**' is not required unless you are running the website for the first time.
 
 Open a browser and type **localhost:_port_**
+
+## Directory Structure
+
+   ```
+   .
+   ├── _data                      
+   |   ├── binge.yml
+   |   ├── navingation.yml
+   |   ├── projects.yml
+   |   └── sketches.yml
+   ├── _includes                      
+   |   ├── footer.html
+   |   ├── head.html
+   |   ├── header.html
+   |   └── scripts.html
+   ├── _pages                       
+   |   ├── 404.html
+   |   ├── about.html
+   |   ├── binge.html
+   |   ├── journal.html
+   |   ├── projects.html
+   |   └── sketches.html
+   ├── _posts
+   ├── _site
+   ├── assets                      
+   |   ├── images
+   |   |   ├── binge
+   |   |   ├── posts
+   |   |   ├── sketches
+   |   |   └── almanac.png
+   |   └── styles
+   ├── _config.yml
+   ├── Gemfile
+   └── Gemfile.lock
+   ```
