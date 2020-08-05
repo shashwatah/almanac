@@ -20,7 +20,7 @@
 
 ## Getting Started
 
-#### Installations
+### Installations
 
 Install [Ruby](https://www.ruby-lang.org/en/downloads/) to install jekyll and it's bundler.
 
