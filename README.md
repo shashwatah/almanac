@@ -16,11 +16,9 @@
   <a href="https://app.netlify.com/sites/araekiel/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e55d05c3-64c6-4f9f-ac79-4b5f369879f7/deploy-status"></a>
 </p>
 
-## Getting Started
+## Prerequisites
 
-### Prerequisites
-
-#### Ruby 
+### Ruby 
 
 Download and install Ruby from this [link](https://www.ruby-lang.org/en/downloads/).
 
@@ -31,7 +29,7 @@ $ ruby -v
 $ gem -v
 ```
 
-#### Jekyll
+### Jekyll
 
 Run the following command to install Jekyll:
 
@@ -39,7 +37,7 @@ Run the following command to install Jekyll:
 $ gem install bundler jekyll
 ```
 
-### Build & Run
+## Build & Run
 
 Clone the repo and cd into the directory:
 
@@ -57,3 +55,5 @@ $ bundle exec jekyll serve
 ```
 
 > Note: '**bundle exec**' is not required unless you are running the website for the first time.
+
+Open a browser and type **localhost:_port_**
