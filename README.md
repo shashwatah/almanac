@@ -16,6 +16,15 @@
   <a href="https://app.netlify.com/sites/araekiel/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e55d05c3-64c6-4f9f-ac79-4b5f369879f7/deploy-status"></a>
 </p>
 
+<p align="center">
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#build--run">Build & Run</a> •
+  <a href="#directory-structure">Directory Structure</a> •
+  <a href="#refs">Refs</a> •
+  <a href="#authors">Authors</a> •
+  <a href="#license">License</a>
+</p>
+
 ## Prerequisites
 
 ### Ruby 
@@ -93,7 +102,7 @@ Open a browser and type **localhost:_port_**
    └── Gemfile.lock
    ```
 
-> Note: I would advise against relying on this repository. It will not be updated frequently since the website relies on a different repo. Also, you will encounter file not found errors upon execution since this repos does not contain images for 'binge' and 'sketches' pages.
+> Note: I would advise against relying on this repository. It will not be updated frequently since the website relies on a different repo(private). Also, you will encounter file not found errors upon execution since this repo does not contain images for 'binge' and 'sketches' pages.
 
 ## Refs
 
