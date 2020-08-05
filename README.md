@@ -24,7 +24,7 @@ Download and install Ruby from this [link](https://www.ruby-lang.org/en/download
 
 Run the following commands to confirm if the installation was successful:
 
-```
+```bash
 $ ruby -v
 $ gem -v
 ```
@@ -33,7 +33,7 @@ $ gem -v
 
 Run the following command to install Jekyll:
 
-```
+```bash
 $ gem install bundler jekyll
 ```
 
@@ -41,7 +41,7 @@ $ gem install bundler jekyll
 
 Clone the repo and cd into the directory:
 
-```
+```bash
 $ git clone https://github.com/Araekiel/araekiels-almanac.git
 $ cd araekiels-almanac
 ```
@@ -50,7 +50,7 @@ $ cd araekiels-almanac
 
 Run the site:
 
-```
+```bash
 $ bundle exec jekyll serve
 ```
 
@@ -60,7 +60,7 @@ Open a browser and type **localhost:_port_**
 
 ## Directory Structure
 
-   ```
+   ```bash
    .
    ├── _data                      
    |   ├── binge.yml
