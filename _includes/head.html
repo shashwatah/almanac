@@ -1,0 +1,23 @@
+<meta
+  name="description"
+  content="A compendium of all my thoughts and interests!"
+/>
+<meta
+  name="keywords"
+  content="Araekiel, Kumar Shashwat, Kumar, Shashwat, KSSBro, Almanac, Araekiel's Almanac, Journal, Projects, Sketches, Binge, Movies, Shows, Games"
+/>
+<meta name="author" content="Kumar Shashwat" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+{% case page.pagetype%} 
+  {% when "main"%}
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="assets/styles/main.css" />
+    <link rel="icon" href="assets/images/almanac.png" type="image/png" />
+  {% else %}
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="../../../../assets/styles/main.css" />
+    <link rel="stylesheet" href="../../../../assets/styles/post.css" />
+    <link rel="icon" href="../../../../assets/images/almanac.png" type="image/png"/>
+{% endcase %}

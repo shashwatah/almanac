@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /projects
+
+pagetag: projects
+pagetype: main
+---
+
+{% for project in site.data.projects %}
+    <a href="{{ project.url }}" target="_blank">
+        <div class="entry">
+            <p class="entry-title">{{ project.title }}</p>
+            <p class="entry-excerpt">{{ project.desc }}</p>
+            <div class="entry-tag-container">
+                {% for tag in project.tags %}
+                    <button class="entry-tag">{{ tag.name }}</button>
+                {% endfor %}
+            </div>
+        </div>
+    </a>
+{% endfor %}

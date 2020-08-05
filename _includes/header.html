@@ -1,0 +1,18 @@
+<div class="container" id="header-container">
+  <h1 id="logo">
+    <span id="logo-one">araekiel's </span>
+    <span id="logo-two">almanac</span>
+  </h1>
+
+  <p id="navigation">
+    {% for navlink in site.data.navigation %}
+        <a href="{{ navlink.link }}" 
+          class="nav-link 
+          {% if navlink.pagetag == page.pagetag %}
+            active-nav-link
+          {% endif %}">
+          {{ navlink.pagetag }}
+        </a>
+    {% endfor %}
+  </p>
+</div>

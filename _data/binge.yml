@@ -1,0 +1,8 @@
+# Function: contains data(title and location of images) for 'binge' page
+
+# Structure:
+
+- title: "Title for the image"
+  location: "assets/images/binge/filename.jpg"
+
+# The title isn't actually being used anywhere as of yet

@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container" id="main-container">
+      <div class="container" id="sub-container">
+        {% include header.html %}
+        <div class="container" id="content-container">
+          {{ content }}
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>

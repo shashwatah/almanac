@@ -1,0 +1,16 @@
+# Function: facilitates navigation and active button highlight
+
+- pagetag: journal
+  link: /
+
+- pagetag: projects
+  link: /projects
+
+- pagetag: sketches
+  link: /sketches
+
+- pagetag: binge
+  link: /binge
+
+- pagetag: about
+  link: /about

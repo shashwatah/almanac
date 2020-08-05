@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /sketches
+
+pagetag: sketches
+pagetype: main
+---
+
+<div class="container images-container" id="sketches-container">
+  {% for sketch in site.data.sketches %}
+  <div class="image-container">
+    <img
+      alt="{{ sketch.name }}"
+      class="image"
+      src="{{ sketch.location }}"
+      type="image/jpg"
+    />
+  </div>
+  {% endfor %}
+</div>

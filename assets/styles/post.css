@@ -1,0 +1,46 @@
+#content-container h1 {
+    padding-top: 20px;
+}
+
+#content-container p {
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+.ref-title {
+    font-weight: bold;
+}
+
+#content-container img {
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+#content-container #main-quote {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #F1F3F5;
+    border-radius: 10px;
+    font-style: italic;
+    font-size: 18px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 1024px) {
+    #content-container h1 {
+        font-size: 30px;
+    }
+    
+    #content-container p {
+        padding-top: 10px;
+    }
+    
+    #content-container #main-quote {
+        margin-bottom: 20px;
+        padding: 20px;
+        background: #F1F3F5;
+        border-radius: 10px;
+        font-style: italic;
+        font-size: 18px;
+    }
+}

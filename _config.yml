@@ -1,0 +1,32 @@
+title: Araekiel's Almanac
+email: kumarshashwatsri@gmail.com
+url: https://araekiel.netlify.app
+
+steam_username: Araekiel
+steam_link: https://www.steamcommunity.com/id/Araekiel
+github_username:  Araekiel
+github_link: https://www.github.com/Araekiel
+instagram_username: kumarshashwat_
+instagram_link: https://www.instagram.com/kumarshashwat_
+dev_username: araekiel
+dev_link: https://dev.to/araekiel
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      category: journal
+      pagetag: journal
+      pagetype: entry
+      layout: default
+
+plugins:
+  - jekyll-feed
+
+port: 108
+host: 0.0.0.0
+

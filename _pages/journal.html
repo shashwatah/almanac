@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /
+
+pagetag: journal
+pagetype: main
+---
+
+{% for post in site.categories.journal %}
+    <a href="{{ post.url }}">
+        <div class="entry">
+            <p class="entry-title">{{ post.title }}</p>
+            <p class="entry-excerpt">{{ post.excerpt }}</p>
+            <p class="entry-date">{{ post.date | date_to_long_string }}</p>
+        </div>
+    </a>
+{% endfor %}
