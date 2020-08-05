@@ -1,69 +1,7 @@
 # Function: contains data for 'projects' page
 
-- title: GitWiz
-  desc: A singular portal to search for public repos from multiple version control platforms.
+- title: Example
+  desc: Example
   tags:
-    - name: Node.js
-    - name: TypeScript
-    - name: JavaScript
-  url: https://gitwiz.herokuapp.com
-
-- title: Instahunter
-  desc: A CLI OSINT app that can fetch posts, user data and search results from Instagram's Frontend API.
-  tags:
-    - name: Python
-    - name: Click
-  url: https://araekiel.github.io/instahunter
-
-- title: Orion
-  desc: An Open-Source Search Engine for social networking websites, built with Node.js
-  tags:
-    - name: Node.js
-    - name: JavaScript
-  url: https://www.github.com/Araekiel/orion
-  
-- title: Araekiel's Almanac
-  desc: The thing you are looking at right now.
-  tags:
-    - name: Jekyll
-    - name: Liquid
-  url: https://araekiel.netlify.app
-
-- title: Codec
-  desc: A CLI ASCII text encoder/decoder.
-  tags:
-    - name: Python
-    - name: Click
-  url: https://araekiel.github.io/codec
-
-- title: Wiscro
-  desc: A Q&A web-app made with Node.js, Express, MongoDB, Mongoose, Handlebars and JQuery.
-  tags:
-    - name: Node.js
-    - name: JavaScript
-    - name: Mongoose
-  url: https://www.github.com/Araekiel/wiscro
-
-- title: Seismic
-  desc: A Flutter app to view recent seismic data from around the globe.
-  tags:
-    - name: Flutter
-    - name: Dart
-  url: https://www.github.com/Araekiel/seismic
-
-- title: Unicode
-  desc: A real-time code editor/sandbox web app, built with HTML, CSS, JavaScript and JQuery.
-  tags:
-    - name: HTML
-    - name: CSS
-    - name: JavaScript
-    - name: jQuery
-  url: https://www.github.com/Araekiel/unicode
-
-- title: Blogup
-  desc: Blogup is a platform for bloggers and blog readers, built with Node.js, Express and MongoDB(Mongoose).
-  tags:
-    - name: Node.js
-    - name: JavaScript
-    - name: Mongoose
-  url: https://www.github.com/Araekiel/blogup
+    - name: Example
+  url: https://example.com

@@ -1,10 +1,2 @@
-# Function: contains data(title, caption and location) for 'sketches' page
+# Function: contains data(title, caption and location) for images 'sketches' page
 
-# Structure:
-
-- title: "Title"
-  caption: "Caption"
-  location: ./assets/images/sketches/filename.jpg
-
-
-# Title and caption aren't being used anywhere as of yet
