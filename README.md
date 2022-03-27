@@ -148,4 +148,8 @@ Example:
 
 ## License 
 
+<<<<<<< HEAD
 [MIT License](https://github.com/araekiel/almanac-v1/blob/master/LICENSE) | Copyright (c) 2022 Kumar Shashwat
+=======
+[MIT License](https://github.com/Araekiel/araekiels-almanac/blob/master/LICENSE) | Copyright (c) 2020 Kumar Shashwat
+>>>>>>> 6628f09055804fb963f7bc1858c9cbf0aba2c0cb
