@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://araekiel.netlify.app"><img src="https://github.com/Araekiel/araekiels-almanac/blob/master/assets/images/almanac.png" alt="Araekiel's Almanac" width="200"></a>
+  <a href="https://araekiel.netlify.app"><img src="https://github.com/araekiel/araekiels-almanac/blob/main/assets/images/almanac.png" alt="araekiel's Almanac" width="200"></a>
   <br>
-  Araekiel's Almanac
+  araekiel's Almanac
   <br>
 </h1>
 
@@ -25,7 +25,7 @@
   <a href="#license">License</a>
 </p>
 
-<img alt="Screenshot" src="https://raw.githubusercontent.com/Araekiel/araekiels-almanac/master/assets/images/screenshot.png" type="image/png">
+<img alt="Gif" src="https://raw.githubusercontent.com/araekiel/araekiels-almanac/main/assets/images/almanac.gif" type="image/png">
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ $ gem install bundler jekyll
 Clone the repo and cd into the directory:
 
 ```bash
-$ git clone https://github.com/Araekiel/araekiels-almanac.git
+$ git clone https://github.com/araekiel/araekiels-almanac.git
 $ cd araekiels-almanac
 ```
 
@@ -145,7 +145,7 @@ Example:
 
 ## Authors
 
-- Araekiel - [Github](https://www.github.com/Araekiel)
+- araekiel - [Github](https://www.github.com/araekiel)
 
 ## License 
 
