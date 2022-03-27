@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://araekiel.netlify.app"><img src="https://github.com/araekiel/araekiels-almanac/blob/main/assets/images/almanac.png" alt="araekiel's Almanac" width="200"></a>
+  <a href="https://araekiel.netlify.app"><img src="https://github.com/araekiel/almanac-v1/blob/main/assets/images/almanac.png" alt="Araekiel's Almanac" width="200"></a>
   <br>
-  araekiel's Almanac
+  Araekiel's Almanac (v1)
   <br>
 </h1>
 
@@ -25,7 +25,7 @@
   <a href="#license">License</a>
 </p>
 
-<img alt="Gif" src="https://raw.githubusercontent.com/araekiel/araekiels-almanac/main/assets/images/almanac.gif" type="image/png">
+<img alt="Gif" src="https://raw.githubusercontent.com/araekiel/almanac-v1/main/assets/images/almanac.gif" type="image/png">
 
 ## Prerequisites
 
@@ -53,8 +53,8 @@ $ gem install bundler jekyll
 Clone the repo and cd into the directory:
 
 ```bash
-$ git clone https://github.com/araekiel/araekiels-almanac.git
-$ cd araekiels-almanac
+$ git clone https://github.com/araekiel/almanac-v1.git
+$ cd almanac-v1
 ```
 
 > Set the port in *_config.yml*
@@ -149,4 +149,4 @@ Example:
 
 ## License 
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://github.com/araekiel/almanac-v1/blob/master/LICENSE) | Copyright (c) 2022 Kumar Shashwat
