@@ -11,8 +11,8 @@
 </h4>
 
 <p align="center">
-  <a><img alt="MIT License" src="https://img.shields.io/apm/l/atomic-design-ui.svg?"></a>
-  <a><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0-blue"></a>
+  <a href="https://github.com/araekiel/almanac-v1/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="https://github.com/araekiel/almanac-v1/releases/tag/v1.0"><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0-blue"></a>
 </p>
 
 <p align="center">
