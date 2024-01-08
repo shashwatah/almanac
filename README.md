@@ -1,18 +1,18 @@
 <h1 align="center">
   <br>
-  <a href="https://araekiel.netlify.app"><img src="https://github.com/araekiel/almanac-v1/blob/main/assets/images/almanac.png" alt="Araekiel's Almanac" width="200"></a>
+  <img src="https://github.com/shashwatah/almanac/blob/main/assets/images/almanac.png" alt="Almanac" width="200">
   <br>
-  Araekiel's Almanac (v1)
+  Almanac
   <br>
 </h1>
 
 <h4 align="center">
-  This repository contains the source code for my personal website built with <a href="https://jekyllrb.com/">Jekyll</a>.
+  This repository contains the source code for my (old) personal website built with <a href="https://jekyllrb.com/">Jekyll</a>.
 </h4>
 
 <p align="center">
-  <a href="https://github.com/araekiel/almanac-v1/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green"></a>
-  <a href="https://github.com/araekiel/almanac-v1/releases/tag/v1.0"><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0-blue"></a>
+  <a href="https://github.com/shashwatah/almanac/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="https://github.com/shashwatah/almanac/releases/tag/v1.0"><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0-blue"></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
   <a href="#license">License</a>
 </p>
 
-<img alt="Gif" src="https://raw.githubusercontent.com/araekiel/almanac-v1/main/assets/images/almanac.gif" type="image/png">
+<img alt="Gif" src="https://raw.githubusercontent.com/shashwatah/almanac/main/assets/images/almanac.gif" type="image/png">
 
 ## Prerequisites
 
@@ -52,8 +52,8 @@ $ gem install bundler jekyll
 Clone the repo and cd into the directory:
 
 ```bash
-$ git clone https://github.com/araekiel/almanac-v1.git
-$ cd almanac-v1
+$ git clone https://github.com/shashwatah/almanac.git
+$ cd almanac
 ```
 
 > Set the port in *_config.yml*
@@ -135,17 +135,11 @@ Example:
   location: ./assets/images/sketches/mandalorian.jpg
 ```
 
-> Note: I would advise against relying on this repository. It will not be updated frequently since the website relies on a different repo(private). Also, you will encounter file not found errors upon execution since this repo does not contain images for 'binge' and 'sketches' pages.
-
 ## Refs
 
 - The design is inspired by [aweekj](https://github.com/aweekj)'s [Kiko-plus](https://github.com/aweekj/Kiko-plus) jekyll theme.
 
 
-## Authors
-
-- araekiel - [Github](https://www.github.com/araekiel)
-
 ## License 
 
-[MIT License](https://github.com/araekiel/almanac-v1/blob/main/LICENSE) | Copyright (c) 2022 Kumar Shashwat
+[MIT License](https://github.com/shashwatah/almanac/blob/main/LICENSE) | Copyright (c) 2024 Kumar Shashwat
